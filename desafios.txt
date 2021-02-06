@@ -1,0 +1,20 @@
+//  desafioCPF.js
+
+`CPF dos aprovados
+    -600.567.890-12
+    -765.998.345-23 ...
+`
+
+//  desafiotelefone.js
+
+`Lista telefonica
+    -(11) 98756-1212
+    -98765-4321 ...
+`
+
+//  desafiosemail.js
+
+`Os emails dos convidados são
+    -fulano@cod3r.com.br
+    -xico@gmail.com ...
+`
